@@ -9,8 +9,8 @@ This repository contains various HTML button designs.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installing](#installing)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Current Designs
 
@@ -18,7 +18,7 @@ Here are the current designs available in this repository:
 
 - [Orange Button](#orange-button).
 
-## [Orange Button](https://github.com/Kuttesch/Buttons/blob/main/OrangeButton/index.html)).
+## [Orange Button](https://github.com/Kuttesch/Buttons/blob/main/OrangeButton/index.html)
 
 This design is a simple orange button with a hover effect. The button is styled with CSS and uses a hover effect to change the background color when the user hovers over the button.
 
